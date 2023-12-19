@@ -1,0 +1,17 @@
+footer{
+    text-align: center;
+    margin-bottom: 1rem;
+    padding: 0 2rem;
+}
+.copyRight{
+    background-color: #747373;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+.name{
+    font-weight: 600;
+    text-decoration: none;
+}
